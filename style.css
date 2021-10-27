@@ -1,0 +1,351 @@
+.top-right {
+  position: absolute;
+  top: 450px;
+  left: 500px;
+  
+  }
+  .text
+  {
+    margin-left: 35px;
+    font-size: 30px;
+    top:1000px;
+	font-family:verdana;
+    color:red;
+  }
+.rgba
+  {
+    
+    background-color:hsla(290,60%,70%,0.3);
+	background-image: linear-gradient( purple, pink);
+  }
+  .text1
+  {
+    
+    margin-left: 90px;
+    font-size: 60px;
+    font-family:verdana;
+    color:skyblue;
+  }
+  .ex
+  {
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  .text2
+  {
+    margin-top: 0px;
+    margin-left: 200px;
+    font-size: 30px;
+    font-family:verdana;
+    color:white;
+	
+  }
+  .logo
+  {
+    width:0.5px;
+	height:0.5px;
+	margin-left: 10px;
+  }
+  .img
+  {
+    
+    
+  }
+  .img1
+  {
+    margin-left: 15px;
+  }
+  
+  .textc
+  {
+    
+    font-size: 30px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 130px;
+    right: 15px;
+	font-style: Italic;
+	border: 4px solid black;
+  }
+.textf
+  {
+    
+    font-size: 20px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 210px;
+    right: 190px;
+	font-style: Italic;
+	
+  }
+  .textfr
+  {
+    
+    font-size: 20px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 180px;
+    right: 190px;
+	font-style: Italic;
+	
+  }
+  
+  .textfc
+  {
+    
+    font-size: 20px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 20px;
+    right: 15px;
+	font-style: Italic;
+	border: 2px solid skyblue;
+  }
+  .textfcc
+  {
+    margin-left: 35px;
+    font-size: 20px;
+    margin-top:0px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 1400px;
+    left: 5px;
+	font-style: Italic;
+	border: 2px solid skyblue;
+  }
+  .image
+  {
+    margin-left: 35px;
+    margin-top:30px;
+    color:yellow;
+	position: absolute;
+    top: 1400px;
+    left: 5px;
+	
+	}
+	
+	.textf1
+  {
+    margin-left: 55px;
+    font-size: 20px;
+    margin-top:0px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 1800px;
+    left: 5px;
+	font-style: Italic;
+	border: 2px solid skyblue;
+  }
+  .image1
+  {
+    margin-left: 35px;
+    margin-top:30px;
+	position: absolute;
+    top: 1800px;
+    left: 5px;
+    }
+	
+	.textf2
+  {
+    margin-left: 55px;
+    font-size: 20px;
+    margin-top:0px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 1800px;
+    left: 1340px;
+	font-style: Italic;
+	border: 2px solid skyblue;
+  }
+  .image2
+  {
+    margin-left: 35px;
+    margin-top:30px;
+	position: absolute;
+    top: 1800px;
+    left: 1340px;
+    }
+	
+	.textf3
+  {
+    margin-left: 35px;
+    font-size: 20px;
+    margin-top:0px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 1400px;
+    left: 1350px;
+	font-style: Italic;
+	border: 2px solid skyblue;
+  }
+  .image3
+  {
+    margin-left: 35px;
+    margin-top:30px;
+    color:yellow;
+	position: absolute;
+    top: 1400px;
+    left: 1350px;
+	
+	}
+img
+{
+  border-radius: 8px;
+}
+
+.ar
+{
+    margin-left: 55px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 1400px;
+    left: 650px;
+	font-style: Italic;
+	border: 2px solid blue;
+    font-size: 25px;
+    font-style: Italic;
+}
+
+.textlove
+  {
+    
+    font-size: 20px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 220px;
+    right: 185px;
+	font-style: Italic;
+	
+  }
+  .textmar
+  {
+    
+    font-size: 20px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 250px;
+    right: 160px;
+	font-style: Italic;
+	
+  }
+
+ .h4
+ {
+    
+    margin-right:70px;
+ }
+ .textfb1
+ {
+    font-size: 20px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 235px;
+    right: 185px;
+	font-style: Italic;
+ }
+ 
+ .textfb2
+ {
+    font-size: 20px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 260px;
+    right: 160px;
+	font-style: Italic;
+ }
+ 
+ .textcontact
+ {
+    font-size: 20px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+    top: 70px;
+    right: 50px;
+	font-style: Italic;
+ }
+.h1{
+    
+    font-size: 20px;
+   
+	font-family:verdana;
+    color:blue;
+    margin-left:1000px
+	font-style: Italic;
+	
+  }
+  
+  .background4
+  {
+    font-size: 20px;
+	font-family:verdana;
+    
+	position: center;
+    top: 500px;
+    
+	font-style: Italic;
+	 
+  }
+  .contact
+  {
+    font-size: 30px;
+	font-family:verdana;
+    color:yellow;
+	position: absolute;
+	
+	font-style: Italic;
+	border: 4px solid black;
+  }
+  .h1mar{
+    
+    font-size: 20px;
+	font-family:verdana;
+    color:green;
+    margin-left:1000px
+	font-style: Italic;
+	
+.h190{
+    
+    font-size: 20px;
+	font-family:verdana;
+    color:purple;
+    margin-left:1000px
+	font-style: Italic;
+	
+.h1love{ 
+    font-size: 20px;
+	font-family:verdana;
+    color:yellow;
+    margin-left:1000px
+	font-style: Italic;
+
+.contactus
+{
+   background-image: url("background4.jpg");
+   width:1500px;
+   font-size:25px;
+   position: absolute;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin-left:40px;
+}
+
+.con
+{
+   margin-top:200px;
+}
+}
